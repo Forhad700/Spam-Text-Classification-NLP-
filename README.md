@@ -11,10 +11,10 @@ This project implemented a **Spam Detection System** focuses on text classificat
 
 ### Key Steps:
  * **Data Preprocessing**: The dataset is cleaned and preprocessed to handle missing values, and the data is balanced between spam and non-spam messages.
-  **Feature Extraction**: Text data is transformed into numerical features using the **TF-IDF** (Term Frequency-Inverse Document Frequency) technique.
-  **Model Training**: A **Random Forest Classifier** is used to train the model to classify the messages based on their features.
-  **Model Evaluation**: The model's performance is evaluated on a test set using accuracy, precision, recall, and F1-score.
-  **Deployment**: A simple **Streamlit** web application is built to allow users to input messages and get predictions (Spam or Ham).
+ * **Feature Extraction**: Text data is transformed into numerical features using the **TF-IDF** (Term Frequency-Inverse Document Frequency) technique.
+ * **Model Training**: A **Random Forest Classifier** is used to train the model to classify the messages based on their features.
+ * **Model Evaluation**: The model's performance is evaluated on a test set using accuracy, precision, recall, and F1-score.
+ / **Deployment**: A simple **Streamlit** web application is built to allow users to input messages and get predictions (Spam or Ham).
 
 ## Tech Stack
 
