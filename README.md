@@ -1,4 +1,4 @@
-# Spam Text Classification
+# Spam Mail Classification
 
 ## Overview
 This project implemented a **Spam Detection System** focuses on text classification using **Natural Language Processing (NLP)** and **Machine Learning (ML)**. The goal is to classify text messages as either "spam" or "non-spam (ham)".
